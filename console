@@ -1,0 +1,8 @@
+#!/usr/bin/env php
+<?php
+
+$app = require_once __DIR__ . '/bootstrap.php';
+
+$console = $app['console'];
+$console->add(new AzLeg\Command\CreateMapCommand());
+$console->run();

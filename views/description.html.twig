@@ -1,0 +1,22 @@
+{% spaceless %}
+<table>
+    <tr>
+        <td>
+            <ul>
+                {% for senator in district.senator %}
+                    <li>{{ senator.firstname }} {{ senator.lastname }}</li>
+                {% endfor %}
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <ul>
+                {% for representative in district.representative %}
+                    <li>{{ representative.firstname }} {{ representative.lastname }}</li>
+                {% endfor %}
+            </ul>
+        </td>
+    </tr>
+</table>
+{% endspaceless %}

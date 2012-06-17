@@ -1,0 +1,17 @@
+{
+    "name": "justinrainbow/azdistrictmaps",
+    "require": {
+        "twig/twig": "dev-master",
+        "silex/silex": "dev-master",
+        "knplabs/console-service-provider": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "Justin Rainbow",
+            "email": "justin.rainbow@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": { "": "src/" }
+    }
+}
