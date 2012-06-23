@@ -26,27 +26,36 @@ html, body {
 }
 </style>
 <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
-<script type="text/javascript">
-function initialize() {
-    var arizona = new google.maps.LatLngBounds(
-        new google.maps.LatLng(37.00425990, -109.0452230),
-        new google.maps.LatLng(31.3321770, -114.8165910)
-    );
-
-    var myOptions = {
-        zoom: 7,
-        center: new google.maps.LatLng(34.04892810, -111.09373110),
-        mapTypeId: google.maps.MapTypeId.ROADMAP
-    }
-
-    var map = new google.maps.Map(document.getElementById("map_canvas"), myOptions);
-
-    var ctaLayer = new google.maps.KmlLayer('http://justinrainbow.com/azdistrictmaps/districts-3.kmz');
-    ctaLayer.setMap(map);
-}
-</script>
 </head>
-<body onload="initialize()">
-  <div id="map_canvas"></div>
+<body>
+    <div id="map_canvas"></div>
+
+    <script type="text/javascript">
+    !function (win, doc) {
+        // var arizona = new google.maps.LatLngBounds(
+        //     new google.maps.LatLng(37.00425990, -109.0452230),
+        //     new google.maps.LatLng(31.3321770, -114.8165910)
+        // );
+
+        var myOptions = {
+            zoom: 7,
+            center: new google.maps.LatLng(34.04892810, -111.09373110),
+            mapTypeId: google.maps.MapTypeId.ROADMAP
+        }
+
+        var map = new google.maps.Map(document.getElementById("map_canvas"), myOptions);
+
+        var ctaLayer = new google.maps.KmlLayer('http://justinrainbow.com/azdistrictmaps/districts.kml', {
+            map: map
+        });
+
+        google.maps.event.addListener(ctaLayer, 'status_changed', function (kmlEvent) {
+            console.log(arguments);
+            console.log(ctaLayer.getStatus());
+        });
+
+        console.log(ctaLayer.getStatus());
+    }();
+    </script>
 </body>
 </html>
