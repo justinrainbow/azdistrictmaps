@@ -1,0 +1,15 @@
+{% macro party(name) %}
+    {% if name == "Democratic" -%}
+        <abbr title="{{ name }}">D</abbr>
+    {% elseif name == "Republican" -%}
+        <abbr title="{{ name }}">R</abbr>
+    {% elseif name == "Libertarian" %}
+        <abbr title="{{ name }}">L</abbr>
+    {% else %}
+    	{{ name }}
+    {% endif %}
+{% endmacro %}
+
+{% macro formatName(person) %}
+	{{ person.firstname|title }} {{ person.lastname|title }}
+{% endmacro %}

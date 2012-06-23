@@ -1,22 +1,26 @@
+{% import "helpers.twig" as helpers %}
+
 {% spaceless %}
-<table>
-    <tr>
-        <td>
-            <ul>
-                {% for senator in district.senator %}
-                    <li>{{ senator.firstname }} {{ senator.lastname }}</li>
-                {% endfor %}
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <ul>
-                {% for representative in district.representative %}
-                    <li>{{ representative.firstname }} {{ representative.lastname }}</li>
-                {% endfor %}
-            </ul>
-        </td>
-    </tr>
-</table>
+<h2>District {{ info.District }}</h2>
+
+<fieldset style="border-width: 1px 0 0; padding: 1em; line-height: 1.4">
+    <legend>Upcoming Election</legend>
+
+    <div style="margin: 0 0 1em;">
+        <h3 style="padding:0; margin: 0 0 0.5em; border-bottom: 1px solid #ccc">Senate Race</h3>
+        <ul style="padding:0; margin:0; list-style:none;">
+            {% for senator in district.senator %}
+                <li>{{ helpers.formatName(senator) }} {{ helpers.party(senator.partyname) }}</li>
+            {% endfor %}
+        </ul>
+    </div>
+    <div>
+        <h3 style="padding:0; margin: 0 0 0.5em; border-bottom: 1px solid #ccc">Representative Race</h3>
+        <ul style="padding:0; margin:0; list-style:none;">
+            {% for representative in district.representative %}
+                <li>{{ helpers.formatName(representative) }} {{ helpers.party(representative.partyname) }}</li>
+            {% endfor %}
+        </ul>
+    </div>
+</fieldset>
 {% endspaceless %}

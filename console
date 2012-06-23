@@ -4,5 +4,9 @@
 $app = require_once __DIR__ . '/bootstrap.php';
 
 $console = $app['console'];
+$console->add(new AzLeg\Command\CreateDistrictDataCommand());
 $console->add(new AzLeg\Command\CreateMapCommand());
+$console->add(new AzLeg\Command\Csv2JsonCommand());
+$console->add(new AzLeg\Command\FormatCandidatesCommand());
+$console->add(new AzLeg\Command\FormatPopulationDataCommand());
 $console->run();

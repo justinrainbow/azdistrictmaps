@@ -16,13 +16,10 @@ class CreateMapCommand extends Command
             ->setName('create')
             ->setDescription('Imports a collection of books')
             ->setDefinition(array(
-                // new InputArgument('path', InputArgument::REQUIRED, 'path to look for books'),
+                new InputArgument('data', InputArgument::IS_ARRAY, 'List of JSON files'),
+                new InputOption('kmz', null, InputOption::VALUE_REQUIRED, 'Location of the original KMZ', 'http://www.azredistricting.org/Maps/Final-Maps/Legislative/Maps/Final_Legislative_districts.kmz'),
             ))
         ;
-    }
-
-    protected function initialize(InputInterface $input, OutputInterface $output)
-    {
     }
 
     protected function execute(InputInterface $input, OutputInterface $output)
@@ -30,46 +27,32 @@ class CreateMapCommand extends Command
         $rootDir = $this->getProjectDirectory();
         $app = $this->getSilexApplication();
 
-        $fh = fopen($rootDir . '/candidates.csv', 'r');
-        $candidates = array();
-        $header = null;
-
-        while (($row = fgetcsv($fh))) {
-            if (!$header) {
-                $header = array_map('strtolower', $row);
-            } else {
-                $candidates[] = array_combine($header, $row);
-            }
-        }
-
-        fclose($fh);
-
-
-
         $districts = array();
 
-        foreach ($candidates as $candidate) {
-            if (preg_match('/State (Senator|Representative) - District No. (\d+)/', $candidate['officename'], $match)) {
-                $district   = $match[2];
-                $officeType = strtolower($match[1]);
+        foreach ($input->getArgument('data') as $file) {
+            $data = json_decode(file_get_contents($file), true);
 
-                if (!isset($districts[$district])) {
-                    $districts[$district] = array(
-                        'senator' => array(),
-                        'representative' => array()
-                    );
+            foreach ($data as $record) {
+                if (!isset($districts[$record['district']])) {
+                    $districts[$record['district']] = $record;
+                } else {
+                    $districts[$record['district']] = array_merge($districts[$record['district']], $record);
                 }
-
-                $districts[$district][$officeType][] = $candidate;
             }
         }
 
+        $tempName = tempnam(sys_get_temp_dir(), 'kmz-');
+        file_put_contents($tempName, file_get_contents($input->getOption('kmz')));
 
+        $zip = new \ZipArchive();
+        if ($zip->open($tempName) !== true) {
+            $output->writeln('<error>Unable to open downloaded KMZ file.</error>');
+            unlink($tempName);
 
-        $dom = new \DOMDocument();
-        $dom->loadXML(file_get_contents($rootDir . '/input.kml'));
+            return;
+        }
 
-        $kml = simplexml_import_dom($dom);
+        $kml = simplexml_load_string($zip->getFromName('doc.kml'));
 
         function extractData($str)
         {
@@ -98,13 +81,13 @@ class CreateMapCommand extends Command
                 'info' => $info
             ));
 
-            $placemark->description = htmlentities($description);
+            $placemark->description = $description;
         }
 
 
 
         $kml->asXML($rootDir . '/doc.kml');
 
-
+        unlink($tempName);
     }
 }
