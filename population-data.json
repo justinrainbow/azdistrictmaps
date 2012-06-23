@@ -1,0 +1,2192 @@
+{
+    "1": {
+        "district": 1,
+        "deviation": {
+            "total": 3383,
+            "percentage": 1.6
+        },
+        "population": {
+            "total": 216451,
+            "segments": {
+                "hispanic": {
+                    "total": 24035,
+                    "percentage": 11.1
+                },
+                "white": {
+                    "total": 181967,
+                    "percentage": 84.1
+                },
+                "african-american": {
+                    "total": 1913,
+                    "percentage": 0.9
+                },
+                "native-american": {
+                    "total": 1789,
+                    "percentage": 0.8
+                },
+                "asian": {
+                    "total": 2812,
+                    "percentage": 1.3
+                },
+                "hawaiian": {
+                    "total": 205,
+                    "percentage": 0.1
+                },
+                "other": {
+                    "total": 3730,
+                    "percentage": 1.7
+                }
+            }
+        },
+        "votingPopulation": {
+            "total": 170136,
+            "segments": {
+                "hispanic": {
+                    "total": 15190,
+                    "percentage": 8.9
+                },
+                "white": {
+                    "total": 147538,
+                    "percentage": 86.7
+                },
+                "african-american": {
+                    "total": 1457,
+                    "percentage": 0.9
+                },
+                "native-american": {
+                    "total": 1386,
+                    "percentage": 0.8
+                },
+                "asian": {
+                    "total": 2189,
+                    "percentage": 1.3
+                },
+                "hawaiian": {
+                    "total": 174,
+                    "percentage": 0.1
+                },
+                "other": {
+                    "total": 2202,
+                    "percentage": 1.3
+                }
+            }
+        }
+    },
+    "2": {
+        "district": 2,
+        "deviation": {
+            "total": -8452,
+            "percentage": -4
+        },
+        "population": {
+            "total": 204615,
+            "segments": {
+                "hispanic": {
+                    "total": 121900,
+                    "percentage": 59.6
+                },
+                "white": {
+                    "total": 69116,
+                    "percentage": 33.8
+                },
+                "african-american": {
+                    "total": 5909,
+                    "percentage": 2.9
+                },
+                "native-american": {
+                    "total": 2702,
+                    "percentage": 1.3
+                },
+                "asian": {
+                    "total": 2302,
+                    "percentage": 1.1
+                },
+                "hawaiian": {
+                    "total": 191,
+                    "percentage": 0.1
+                },
+                "other": {
+                    "total": 2495,
+                    "percentage": 1.2
+                }
+            }
+        },
+        "votingPopulation": {
+            "total": 148925,
+            "segments": {
+                "hispanic": {
+                    "total": 78653,
+                    "percentage": 52.8
+                },
+                "white": {
+                    "total": 60416,
+                    "percentage": 40.6
+                },
+                "african-american": {
+                    "total": 4539,
+                    "percentage": 3
+                },
+                "native-american": {
+                    "total": 1933,
+                    "percentage": 1.3
+                },
+                "asian": {
+                    "total": 1881,
+                    "percentage": 1.3
+                },
+                "hawaiian": {
+                    "total": 152,
+                    "percentage": 0.1
+                },
+                "other": {
+                    "total": 1351,
+                    "percentage": 0.9
+                }
+            }
+        }
+    },
+    "3": {
+        "district": 3,
+        "deviation": {
+            "total": -8454,
+            "percentage": -4
+        },
+        "population": {
+            "total": 204613,
+            "segments": {
+                "hispanic": {
+                    "total": 115569,
+                    "percentage": 56.5
+                },
+                "white": {
+                    "total": 67222,
+                    "percentage": 32.9
+                },
+                "african-american": {
+                    "total": 6053,
+                    "percentage": 3
+                },
+                "native-american": {
+                    "total": 7611,
+                    "percentage": 3.7
+                },
+                "asian": {
+                    "total": 4750,
+                    "percentage": 2.3
+                },
+                "hawaiian": {
+                    "total": 189,
+                    "percentage": 0.1
+                },
+                "other": {
+                    "total": 3219,
+                    "percentage": 1.6
+                }
+            }
+        },
+        "votingPopulation": {
+            "total": 154745,
+            "segments": {
+                "hispanic": {
+                    "total": 77451,
+                    "percentage": 50.1
+                },
+                "white": {
+                    "total": 60946,
+                    "percentage": 39.4
+                },
+                "african-american": {
+                    "total": 4632,
+                    "percentage": 3
+                },
+                "native-american": {
+                    "total": 5111,
+                    "percentage": 3.3
+                },
+                "asian": {
+                    "total": 4225,
+                    "percentage": 2.7
+                },
+                "hawaiian": {
+                    "total": 139,
+                    "percentage": 0.1
+                },
+                "other": {
+                    "total": 2241,
+                    "percentage": 1.4
+                }
+            }
+        }
+    },
+    "4": {
+        "district": 4,
+        "deviation": {
+            "total": -8924,
+            "percentage": -4.2
+        },
+        "population": {
+            "total": 204143,
+            "segments": {
+                "hispanic": {
+                    "total": 123594,
+                    "percentage": 60.5
+                },
+                "white": {
+                    "total": 58192,
+                    "percentage": 28.5
+                },
+                "african-american": {
+                    "total": 5891,
+                    "percentage": 2.9
+                },
+                "native-american": {
+                    "total": 11559,
+                    "percentage": 5.7
+                },
+                "asian": {
+                    "total": 2083,
+                    "percentage": 1
+                },
+                "hawaiian": {
+                    "total": 198,
+                    "percentage": 0.1
+                },
+                "other": {
+                    "total": 2626,
+                    "percentage": 1.3
+                }
+            }
+        },
+        "votingPopulation": {
+            "total": 141485,
+            "segments": {
+                "hispanic": {
+                    "total": 78816,
+                    "percentage": 55.7
+                },
+                "white": {
+                    "total": 47013,
+                    "percentage": 33.2
+                },
+                "african-american": {
+                    "total": 4529,
+                    "percentage": 3.2
+                },
+                "native-american": {
+                    "total": 7926,
+                    "percentage": 5.6
+                },
+                "asian": {
+                    "total": 1599,
+                    "percentage": 1.1
+                },
+                "hawaiian": {
+                    "total": 158,
+                    "percentage": 0.1
+                },
+                "other": {
+                    "total": 1444,
+                    "percentage": 1
+                }
+            }
+        }
+    },
+    "5": {
+        "district": 5,
+        "deviation": {
+            "total": 5972,
+            "percentage": 2.8
+        },
+        "population": {
+            "total": 219040,
+            "segments": {
+                "hispanic": {
+                    "total": 34316,
+                    "percentage": 15.7
+                },
+                "white": {
+                    "total": 172081,
+                    "percentage": 78.6
+                },
+                "african-american": {
+                    "total": 1822,
+                    "percentage": 0.8
+                },
+                "native-american": {
+                    "total": 4609,
+                    "percentage": 2.1
+                },
+                "asian": {
+                    "total": 2106,
+                    "percentage": 1
+                },
+                "hawaiian": {
+                    "total": 320,
+                    "percentage": 0.1
+                },
+                "other": {
+                    "total": 3786,
+                    "percentage": 1.7
+                }
+            }
+        },
+        "votingPopulation": {
+            "total": 174701,
+            "segments": {
+                "hispanic": {
+                    "total": 22009,
+                    "percentage": 12.6
+                },
+                "white": {
+                    "total": 143620,
+                    "percentage": 82.2
+                },
+                "african-american": {
+                    "total": 1424,
+                    "percentage": 0.8
+                },
+                "native-american": {
+                    "total": 3291,
+                    "percentage": 1.9
+                },
+                "asian": {
+                    "total": 1773,
+                    "percentage": 1
+                },
+                "hawaiian": {
+                    "total": 246,
+                    "percentage": 0.1
+                },
+                "other": {
+                    "total": 2338,
+                    "percentage": 1.3
+                }
+            }
+        }
+    },
+    "6": {
+        "district": 6,
+        "deviation": {
+            "total": 1176,
+            "percentage": 0.6
+        },
+        "population": {
+            "total": 214244,
+            "segments": {
+                "hispanic": {
+                    "total": 33176,
+                    "percentage": 15.5
+                },
+                "white": {
+                    "total": 159161,
+                    "percentage": 74.3
+                },
+                "african-american": {
+                    "total": 2004,
+                    "percentage": 0.9
+                },
+                "native-american": {
+                    "total": 13062,
+                    "percentage": 6.1
+                },
+                "asian": {
+                    "total": 2406,
+                    "percentage": 1.1
+                },
+                "hawaiian": {
+                    "total": 230,
+                    "percentage": 0.1
+                },
+                "other": {
+                    "total": 4205,
+                    "percentage": 2
+                }
+            }
+        },
+        "votingPopulation": {
+            "total": 169965,
+            "segments": {
+                "hispanic": {
+                    "total": 21327,
+                    "percentage": 12.5
+                },
+                "white": {
+                    "total": 132925,
+                    "percentage": 78.2
+                },
+                "african-american": {
+                    "total": 1639,
+                    "percentage": 1
+                },
+                "native-american": {
+                    "total": 9210,
+                    "percentage": 5.4
+                },
+                "asian": {
+                    "total": 2092,
+                    "percentage": 1.2
+                },
+                "hawaiian": {
+                    "total": 186,
+                    "percentage": 0.1
+                },
+                "other": {
+                    "total": 2586,
+                    "percentage": 1.5
+                }
+            }
+        }
+    },
+    "7": {
+        "district": 7,
+        "deviation": {
+            "total": -10041,
+            "percentage": -4.7
+        },
+        "population": {
+            "total": 203026,
+            "segments": {
+                "hispanic": {
+                    "total": 13878,
+                    "percentage": 6.8
+                },
+                "white": {
+                    "total": 50373,
+                    "percentage": 24.8
+                },
+                "african-american": {
+                    "total": 914,
+                    "percentage": 0.5
+                },
+                "native-american": {
+                    "total": 133830,
+                    "percentage": 65.9
+                },
+                "asian": {
+                    "total": 757,
+                    "percentage": 0.4
+                },
+                "hawaiian": {
+                    "total": 78,
+                    "percentage": 0
+                },
+                "other": {
+                    "total": 3196,
+                    "percentage": 1.6
+                }
+            }
+        },
+        "votingPopulation": {
+            "total": 139259,
+            "segments": {
+                "hispanic": {
+                    "total": 8545,
+                    "percentage": 6.1
+                },
+                "white": {
+                    "total": 40013,
+                    "percentage": 28.7
+                },
+                "african-american": {
+                    "total": 778,
+                    "percentage": 0.6
+                },
+                "native-american": {
+                    "total": 87851,
+                    "percentage": 63.1
+                },
+                "asian": {
+                    "total": 590,
+                    "percentage": 0.4
+                },
+                "hawaiian": {
+                    "total": 61,
+                    "percentage": 0
+                },
+                "other": {
+                    "total": 1421,
+                    "percentage": 1
+                }
+            }
+        }
+    },
+    "8": {
+        "district": 8,
+        "deviation": {
+            "total": -4645,
+            "percentage": -2.2
+        },
+        "population": {
+            "total": 208422,
+            "segments": {
+                "hispanic": {
+                    "total": 72456,
+                    "percentage": 34.8
+                },
+                "white": {
+                    "total": 104152,
+                    "percentage": 50
+                },
+                "african-american": {
+                    "total": 9211,
+                    "percentage": 4.4
+                },
+                "native-american": {
+                    "total": 14534,
+                    "percentage": 7
+                },
+                "asian": {
+                    "total": 3042,
+                    "percentage": 1.5
+                },
+                "hawaiian": {
+                    "total": 1261,
+                    "percentage": 0.6
+                },
+                "other": {
+                    "total": 3766,
+                    "percentage": 1.8
+                }
+            }
+        },
+        "votingPopulation": {
+            "total": 153405,
+            "segments": {
+                "hispanic": {
+                    "total": 48030,
+                    "percentage": 31.3
+                },
+                "white": {
+                    "total": 81918,
+                    "percentage": 53.4
+                },
+                "african-american": {
+                    "total": 7014,
+                    "percentage": 4.6
+                },
+                "native-american": {
+                    "total": 10829,
+                    "percentage": 7.1
+                },
+                "asian": {
+                    "total": 2524,
+                    "percentage": 1.6
+                },
+                "hawaiian": {
+                    "total": 1141,
+                    "percentage": 0.7
+                },
+                "other": {
+                    "total": 1949,
+                    "percentage": 1.3
+                }
+            }
+        }
+    },
+    "9": {
+        "district": 9,
+        "deviation": {
+            "total": 156,
+            "percentage": 0.1
+        },
+        "population": {
+            "total": 213224,
+            "segments": {
+                "hispanic": {
+                    "total": 46661,
+                    "percentage": 21.9
+                },
+                "white": {
+                    "total": 146025,
+                    "percentage": 68.5
+                },
+                "african-american": {
+                    "total": 5917,
+                    "percentage": 2.8
+                },
+                "native-american": {
+                    "total": 2065,
+                    "percentage": 1
+                },
+                "asian": {
+                    "total": 7573,
+                    "percentage": 3.6
+                },
+                "hawaiian": {
+                    "total": 317,
+                    "percentage": 0.1
+                },
+                "other": {
+                    "total": 4666,
+                    "percentage": 2.2
+                }
+            }
+        },
+        "votingPopulation": {
+            "total": 172120,
+            "segments": {
+                "hispanic": {
+                    "total": 31504,
+                    "percentage": 18.3
+                },
+                "white": {
+                    "total": 125635,
+                    "percentage": 73
+                },
+                "african-american": {
+                    "total": 4346,
+                    "percentage": 2.5
+                },
+                "native-american": {
+                    "total": 1550,
+                    "percentage": 0.9
+                },
+                "asian": {
+                    "total": 6038,
+                    "percentage": 3.5
+                },
+                "hawaiian": {
+                    "total": 222,
+                    "percentage": 0.1
+                },
+                "other": {
+                    "total": 2825,
+                    "percentage": 1.6
+                }
+            }
+        }
+    },
+    "10": {
+        "district": 10,
+        "deviation": {
+            "total": -1994,
+            "percentage": -0.9
+        },
+        "population": {
+            "total": 211073,
+            "segments": {
+                "hispanic": {
+                    "total": 49128,
+                    "percentage": 23.3
+                },
+                "white": {
+                    "total": 138868,
+                    "percentage": 65.8
+                },
+                "african-american": {
+                    "total": 9556,
+                    "percentage": 4.5
+                },
+                "native-american": {
+                    "total": 1807,
+                    "percentage": 0.9
+                },
+                "asian": {
+                    "total": 6076,
+                    "percentage": 2.9
+                },
+                "hawaiian": {
+                    "total": 425,
+                    "percentage": 0.2
+                },
+                "other": {
+                    "total": 5213,
+                    "percentage": 2.5
+                }
+            }
+        },
+        "votingPopulation": {
+            "total": 166639,
+            "segments": {
+                "hispanic": {
+                    "total": 32487,
+                    "percentage": 19.5
+                },
+                "white": {
+                    "total": 117413,
+                    "percentage": 70.5
+                },
+                "african-american": {
+                    "total": 7195,
+                    "percentage": 4.3
+                },
+                "native-american": {
+                    "total": 1339,
+                    "percentage": 0.8
+                },
+                "asian": {
+                    "total": 4970,
+                    "percentage": 3
+                },
+                "hawaiian": {
+                    "total": 326,
+                    "percentage": 0.2
+                },
+                "other": {
+                    "total": 2909,
+                    "percentage": 1.7
+                }
+            }
+        }
+    },
+    "11": {
+        "district": 11,
+        "deviation": {
+            "total": 309,
+            "percentage": 0.1
+        },
+        "population": {
+            "total": 213377,
+            "segments": {
+                "hispanic": {
+                    "total": 48249,
+                    "percentage": 22.6
+                },
+                "white": {
+                    "total": 145091,
+                    "percentage": 68
+                },
+                "african-american": {
+                    "total": 7160,
+                    "percentage": 3.4
+                },
+                "native-american": {
+                    "total": 3108,
+                    "percentage": 1.5
+                },
+                "asian": {
+                    "total": 5124,
+                    "percentage": 2.4
+                },
+                "hawaiian": {
+                    "total": 273,
+                    "percentage": 0.1
+                },
+                "other": {
+                    "total": 4372,
+                    "percentage": 2
+                }
+            }
+        },
+        "votingPopulation": {
+            "total": 160257,
+            "segments": {
+                "hispanic": {
+                    "total": 29474,
+                    "percentage": 18.4
+                },
+                "white": {
+                    "total": 117449,
+                    "percentage": 73.3
+                },
+                "african-american": {
+                    "total": 4935,
+                    "percentage": 3.1
+                },
+                "native-american": {
+                    "total": 2131,
+                    "percentage": 1.3
+                },
+                "asian": {
+                    "total": 3890,
+                    "percentage": 2.4
+                },
+                "hawaiian": {
+                    "total": 185,
+                    "percentage": 0.1
+                },
+                "other": {
+                    "total": 2193,
+                    "percentage": 1.4
+                }
+            }
+        }
+    },
+    "12": {
+        "district": 12,
+        "deviation": {
+            "total": 8667,
+            "percentage": 4.1
+        },
+        "population": {
+            "total": 221735,
+            "segments": {
+                "hispanic": {
+                    "total": 34578,
+                    "percentage": 15.6
+                },
+                "white": {
+                    "total": 162476,
+                    "percentage": 73.3
+                },
+                "african-american": {
+                    "total": 6797,
+                    "percentage": 3.1
+                },
+                "native-american": {
+                    "total": 1385,
+                    "percentage": 0.6
+                },
+                "asian": {
+                    "total": 10823,
+                    "percentage": 4.9
+                },
+                "hawaiian": {
+                    "total": 377,
+                    "percentage": 0.2
+                },
+                "other": {
+                    "total": 5299,
+                    "percentage": 2.4
+                }
+            }
+        },
+        "votingPopulation": {
+            "total": 147754,
+            "segments": {
+                "hispanic": {
+                    "total": 20504,
+                    "percentage": 13.9
+                },
+                "white": {
+                    "total": 111743,
+                    "percentage": 75.6
+                },
+                "african-american": {
+                    "total": 4497,
+                    "percentage": 3
+                },
+                "native-american": {
+                    "total": 930,
+                    "percentage": 0.6
+                },
+                "asian": {
+                    "total": 7639,
+                    "percentage": 5.2
+                },
+                "hawaiian": {
+                    "total": 258,
+                    "percentage": 0.2
+                },
+                "other": {
+                    "total": 2183,
+                    "percentage": 1.5
+                }
+            }
+        }
+    },
+    "13": {
+        "district": 13,
+        "deviation": {
+            "total": -1366,
+            "percentage": -0.6
+        },
+        "population": {
+            "total": 211701,
+            "segments": {
+                "hispanic": {
+                    "total": 66106,
+                    "percentage": 31.2
+                },
+                "white": {
+                    "total": 126954,
+                    "percentage": 60
+                },
+                "african-american": {
+                    "total": 7530,
+                    "percentage": 3.6
+                },
+                "native-american": {
+                    "total": 1757,
+                    "percentage": 0.8
+                },
+                "asian": {
+                    "total": 4990,
+                    "percentage": 2.4
+                },
+                "hawaiian": {
+                    "total": 299,
+                    "percentage": 0.1
+                },
+                "other": {
+                    "total": 4065,
+                    "percentage": 1.9
+                }
+            }
+        },
+        "votingPopulation": {
+            "total": 156650,
+            "segments": {
+                "hispanic": {
+                    "total": 40759,
+                    "percentage": 26
+                },
+                "white": {
+                    "total": 103306,
+                    "percentage": 65.9
+                },
+                "african-american": {
+                    "total": 5333,
+                    "percentage": 3.4
+                },
+                "native-american": {
+                    "total": 1363,
+                    "percentage": 0.9
+                },
+                "asian": {
+                    "total": 3675,
+                    "percentage": 2.3
+                },
+                "hawaiian": {
+                    "total": 218,
+                    "percentage": 0.1
+                },
+                "other": {
+                    "total": 1996,
+                    "percentage": 1.3
+                }
+            }
+        }
+    },
+    "14": {
+        "district": 14,
+        "deviation": {
+            "total": 4625,
+            "percentage": 2.2
+        },
+        "population": {
+            "total": 217693,
+            "segments": {
+                "hispanic": {
+                    "total": 67082,
+                    "percentage": 30.8
+                },
+                "white": {
+                    "total": 132552,
+                    "percentage": 60.9
+                },
+                "african-american": {
+                    "total": 7070,
+                    "percentage": 3.2
+                },
+                "native-american": {
+                    "total": 1851,
+                    "percentage": 0.9
+                },
+                "asian": {
+                    "total": 3654,
+                    "percentage": 1.7
+                },
+                "hawaiian": {
+                    "total": 506,
+                    "percentage": 0.2
+                },
+                "other": {
+                    "total": 4978,
+                    "percentage": 2.3
+                }
+            }
+        },
+        "votingPopulation": {
+            "total": 163012,
+            "segments": {
+                "hispanic": {
+                    "total": 43999,
+                    "percentage": 27
+                },
+                "white": {
+                    "total": 105951,
+                    "percentage": 65
+                },
+                "african-american": {
+                    "total": 5448,
+                    "percentage": 3.3
+                },
+                "native-american": {
+                    "total": 1479,
+                    "percentage": 0.9
+                },
+                "asian": {
+                    "total": 3034,
+                    "percentage": 1.9
+                },
+                "hawaiian": {
+                    "total": 388,
+                    "percentage": 0.2
+                },
+                "other": {
+                    "total": 2713,
+                    "percentage": 1.7
+                }
+            }
+        }
+    },
+    "15": {
+        "district": 15,
+        "deviation": {
+            "total": 1873,
+            "percentage": 0.9
+        },
+        "population": {
+            "total": 214941,
+            "segments": {
+                "hispanic": {
+                    "total": 22035,
+                    "percentage": 10.3
+                },
+                "white": {
+                    "total": 172110,
+                    "percentage": 80.1
+                },
+                "african-american": {
+                    "total": 4086,
+                    "percentage": 1.9
+                },
+                "native-american": {
+                    "total": 1359,
+                    "percentage": 0.6
+                },
+                "asian": {
+                    "total": 10720,
+                    "percentage": 5
+                },
+                "hawaiian": {
+                    "total": 254,
+                    "percentage": 0.1
+                },
+                "other": {
+                    "total": 4377,
+                    "percentage": 2
+                }
+            }
+        },
+        "votingPopulation": {
+            "total": 162579,
+            "segments": {
+                "hispanic": {
+                    "total": 13970,
+                    "percentage": 8.6
+                },
+                "white": {
+                    "total": 133974,
+                    "percentage": 82.4
+                },
+                "african-american": {
+                    "total": 3037,
+                    "percentage": 1.9
+                },
+                "native-american": {
+                    "total": 973,
+                    "percentage": 0.6
+                },
+                "asian": {
+                    "total": 8176,
+                    "percentage": 5
+                },
+                "hawaiian": {
+                    "total": 193,
+                    "percentage": 0.1
+                },
+                "other": {
+                    "total": 2256,
+                    "percentage": 1.4
+                }
+            }
+        }
+    },
+    "16": {
+        "district": 16,
+        "deviation": {
+            "total": 7089,
+            "percentage": 3.3
+        },
+        "population": {
+            "total": 220157,
+            "segments": {
+                "hispanic": {
+                    "total": 36222,
+                    "percentage": 16.5
+                },
+                "white": {
+                    "total": 169113,
+                    "percentage": 76.8
+                },
+                "african-american": {
+                    "total": 4816,
+                    "percentage": 2.2
+                },
+                "native-american": {
+                    "total": 1776,
+                    "percentage": 0.8
+                },
+                "asian": {
+                    "total": 3734,
+                    "percentage": 1.7
+                },
+                "hawaiian": {
+                    "total": 363,
+                    "percentage": 0.2
+                },
+                "other": {
+                    "total": 4133,
+                    "percentage": 1.9
+                }
+            }
+        },
+        "votingPopulation": {
+            "total": 164719,
+            "segments": {
+                "hispanic": {
+                    "total": 21337,
+                    "percentage": 13
+                },
+                "white": {
+                    "total": 133781,
+                    "percentage": 81.2
+                },
+                "african-american": {
+                    "total": 3353,
+                    "percentage": 2
+                },
+                "native-american": {
+                    "total": 1260,
+                    "percentage": 0.8
+                },
+                "asian": {
+                    "total": 2806,
+                    "percentage": 1.7
+                },
+                "hawaiian": {
+                    "total": 245,
+                    "percentage": 0.1
+                },
+                "other": {
+                    "total": 1937,
+                    "percentage": 1.2
+                }
+            }
+        }
+    },
+    "17": {
+        "district": 17,
+        "deviation": {
+            "total": 8106,
+            "percentage": 3.8
+        },
+        "population": {
+            "total": 221174,
+            "segments": {
+                "hispanic": {
+                    "total": 47472,
+                    "percentage": 21.5
+                },
+                "white": {
+                    "total": 140660,
+                    "percentage": 63.6
+                },
+                "african-american": {
+                    "total": 9238,
+                    "percentage": 4.2
+                },
+                "native-american": {
+                    "total": 2221,
+                    "percentage": 1
+                },
+                "asian": {
+                    "total": 16160,
+                    "percentage": 7.3
+                },
+                "hawaiian": {
+                    "total": 362,
+                    "percentage": 0.2
+                },
+                "other": {
+                    "total": 5061,
+                    "percentage": 2.3
+                }
+            }
+        },
+        "votingPopulation": {
+            "total": 161935,
+            "segments": {
+                "hispanic": {
+                    "total": 29525,
+                    "percentage": 18.2
+                },
+                "white": {
+                    "total": 110213,
+                    "percentage": 68.1
+                },
+                "african-american": {
+                    "total": 6526,
+                    "percentage": 4
+                },
+                "native-american": {
+                    "total": 1515,
+                    "percentage": 0.9
+                },
+                "asian": {
+                    "total": 11568,
+                    "percentage": 7.1
+                },
+                "hawaiian": {
+                    "total": 269,
+                    "percentage": 0.2
+                },
+                "other": {
+                    "total": 2319,
+                    "percentage": 1.4
+                }
+            }
+        }
+    },
+    "18": {
+        "district": 18,
+        "deviation": {
+            "total": 5609,
+            "percentage": 2.6
+        },
+        "population": {
+            "total": 218677,
+            "segments": {
+                "hispanic": {
+                    "total": 31641,
+                    "percentage": 14.5
+                },
+                "white": {
+                    "total": 153658,
+                    "percentage": 70.3
+                },
+                "african-american": {
+                    "total": 10190,
+                    "percentage": 4.7
+                },
+                "native-american": {
+                    "total": 3190,
+                    "percentage": 1.5
+                },
+                "asian": {
+                    "total": 13997,
+                    "percentage": 6.4
+                },
+                "hawaiian": {
+                    "total": 549,
+                    "percentage": 0.3
+                },
+                "other": {
+                    "total": 5452,
+                    "percentage": 2.5
+                }
+            }
+        },
+        "votingPopulation": {
+            "total": 168966,
+            "segments": {
+                "hispanic": {
+                    "total": 21459,
+                    "percentage": 12.7
+                },
+                "white": {
+                    "total": 124070,
+                    "percentage": 73.4
+                },
+                "african-american": {
+                    "total": 7413,
+                    "percentage": 4.4
+                },
+                "native-american": {
+                    "total": 2280,
+                    "percentage": 1.3
+                },
+                "asian": {
+                    "total": 10644,
+                    "percentage": 6.3
+                },
+                "hawaiian": {
+                    "total": 384,
+                    "percentage": 0.2
+                },
+                "other": {
+                    "total": 2716,
+                    "percentage": 1.6
+                }
+            }
+        }
+    },
+    "19": {
+        "district": 19,
+        "deviation": {
+            "total": -5979,
+            "percentage": -2.8
+        },
+        "population": {
+            "total": 207088,
+            "segments": {
+                "hispanic": {
+                    "total": 134862,
+                    "percentage": 65.1
+                },
+                "white": {
+                    "total": 45004,
+                    "percentage": 21.7
+                },
+                "african-american": {
+                    "total": 16061,
+                    "percentage": 7.8
+                },
+                "native-american": {
+                    "total": 2350,
+                    "percentage": 1.1
+                },
+                "asian": {
+                    "total": 4855,
+                    "percentage": 2.3
+                },
+                "hawaiian": {
+                    "total": 365,
+                    "percentage": 0.2
+                },
+                "other": {
+                    "total": 3591,
+                    "percentage": 1.7
+                }
+            }
+        },
+        "votingPopulation": {
+            "total": 133549,
+            "segments": {
+                "hispanic": {
+                    "total": 80622,
+                    "percentage": 60.4
+                },
+                "white": {
+                    "total": 35275,
+                    "percentage": 26.4
+                },
+                "african-american": {
+                    "total": 10325,
+                    "percentage": 7.7
+                },
+                "native-american": {
+                    "total": 1639,
+                    "percentage": 1.2
+                },
+                "asian": {
+                    "total": 3645,
+                    "percentage": 2.7
+                },
+                "hawaiian": {
+                    "total": 278,
+                    "percentage": 0.2
+                },
+                "other": {
+                    "total": 1765,
+                    "percentage": 1.3
+                }
+            }
+        }
+    },
+    "20": {
+        "district": 20,
+        "deviation": {
+            "total": 5099,
+            "percentage": 2.4
+        },
+        "population": {
+            "total": 218167,
+            "segments": {
+                "hispanic": {
+                    "total": 46856,
+                    "percentage": 21.5
+                },
+                "white": {
+                    "total": 148114,
+                    "percentage": 67.9
+                },
+                "african-american": {
+                    "total": 8325,
+                    "percentage": 3.8
+                },
+                "native-american": {
+                    "total": 2947,
+                    "percentage": 1.4
+                },
+                "asian": {
+                    "total": 6714,
+                    "percentage": 3.1
+                },
+                "hawaiian": {
+                    "total": 373,
+                    "percentage": 0.2
+                },
+                "other": {
+                    "total": 4838,
+                    "percentage": 2.2
+                }
+            }
+        },
+        "votingPopulation": {
+            "total": 166570,
+            "segments": {
+                "hispanic": {
+                    "total": 29476,
+                    "percentage": 17.7
+                },
+                "white": {
+                    "total": 120748,
+                    "percentage": 72.5
+                },
+                "african-american": {
+                    "total": 6029,
+                    "percentage": 3.6
+                },
+                "native-american": {
+                    "total": 2102,
+                    "percentage": 1.3
+                },
+                "asian": {
+                    "total": 5315,
+                    "percentage": 3.2
+                },
+                "hawaiian": {
+                    "total": 268,
+                    "percentage": 0.2
+                },
+                "other": {
+                    "total": 2632,
+                    "percentage": 1.6
+                }
+            }
+        }
+    },
+    "21": {
+        "district": 21,
+        "deviation": {
+            "total": 3174,
+            "percentage": 1.5
+        },
+        "population": {
+            "total": 216242,
+            "segments": {
+                "hispanic": {
+                    "total": 53053,
+                    "percentage": 24.5
+                },
+                "white": {
+                    "total": 143644,
+                    "percentage": 66.4
+                },
+                "african-american": {
+                    "total": 8819,
+                    "percentage": 4.1
+                },
+                "native-american": {
+                    "total": 1562,
+                    "percentage": 0.7
+                },
+                "asian": {
+                    "total": 4485,
+                    "percentage": 2.1
+                },
+                "hawaiian": {
+                    "total": 307,
+                    "percentage": 0.1
+                },
+                "other": {
+                    "total": 4372,
+                    "percentage": 2
+                }
+            }
+        },
+        "votingPopulation": {
+            "total": 164688,
+            "segments": {
+                "hispanic": {
+                    "total": 32423,
+                    "percentage": 19.7
+                },
+                "white": {
+                    "total": 119158,
+                    "percentage": 72.4
+                },
+                "african-american": {
+                    "total": 6140,
+                    "percentage": 3.7
+                },
+                "native-american": {
+                    "total": 1098,
+                    "percentage": 0.7
+                },
+                "asian": {
+                    "total": 3531,
+                    "percentage": 2.1
+                },
+                "hawaiian": {
+                    "total": 204,
+                    "percentage": 0.1
+                },
+                "other": {
+                    "total": 2134,
+                    "percentage": 1.3
+                }
+            }
+        }
+    },
+    "22": {
+        "district": 22,
+        "deviation": {
+            "total": 2844,
+            "percentage": 1.3
+        },
+        "population": {
+            "total": 215912,
+            "segments": {
+                "hispanic": {
+                    "total": 22375,
+                    "percentage": 10.4
+                },
+                "white": {
+                    "total": 175513,
+                    "percentage": 81.3
+                },
+                "african-american": {
+                    "total": 5822,
+                    "percentage": 2.7
+                },
+                "native-american": {
+                    "total": 839,
+                    "percentage": 0.4
+                },
+                "asian": {
+                    "total": 7117,
+                    "percentage": 3.3
+                },
+                "hawaiian": {
+                    "total": 276,
+                    "percentage": 0.1
+                },
+                "other": {
+                    "total": 3970,
+                    "percentage": 1.8
+                }
+            }
+        },
+        "votingPopulation": {
+            "total": 167688,
+            "segments": {
+                "hispanic": {
+                    "total": 13708,
+                    "percentage": 8.2
+                },
+                "white": {
+                    "total": 141890,
+                    "percentage": 84.6
+                },
+                "african-american": {
+                    "total": 4149,
+                    "percentage": 2.5
+                },
+                "native-american": {
+                    "total": 586,
+                    "percentage": 0.3
+                },
+                "asian": {
+                    "total": 5277,
+                    "percentage": 3.1
+                },
+                "hawaiian": {
+                    "total": 206,
+                    "percentage": 0.1
+                },
+                "other": {
+                    "total": 1872,
+                    "percentage": 1.1
+                }
+            }
+        }
+    },
+    "23": {
+        "district": 23,
+        "deviation": {
+            "total": 383,
+            "percentage": 0.2
+        },
+        "population": {
+            "total": 213451,
+            "segments": {
+                "hispanic": {
+                    "total": 12212,
+                    "percentage": 5.7
+                },
+                "white": {
+                    "total": 186190,
+                    "percentage": 87.2
+                },
+                "african-american": {
+                    "total": 2833,
+                    "percentage": 1.3
+                },
+                "native-american": {
+                    "total": 1616,
+                    "percentage": 0.8
+                },
+                "asian": {
+                    "total": 6889,
+                    "percentage": 3.2
+                },
+                "hawaiian": {
+                    "total": 168,
+                    "percentage": 0.1
+                },
+                "other": {
+                    "total": 3543,
+                    "percentage": 1.7
+                }
+            }
+        },
+        "votingPopulation": {
+            "total": 176271,
+            "segments": {
+                "hispanic": {
+                    "total": 8631,
+                    "percentage": 4.9
+                },
+                "white": {
+                    "total": 156821,
+                    "percentage": 89
+                },
+                "african-american": {
+                    "total": 2284,
+                    "percentage": 1.3
+                },
+                "native-american": {
+                    "total": 1189,
+                    "percentage": 0.7
+                },
+                "asian": {
+                    "total": 5263,
+                    "percentage": 3
+                },
+                "hawaiian": {
+                    "total": 121,
+                    "percentage": 0.1
+                },
+                "other": {
+                    "total": 1962,
+                    "percentage": 1.1
+                }
+            }
+        }
+    },
+    "24": {
+        "district": 24,
+        "deviation": {
+            "total": -6408,
+            "percentage": -3
+        },
+        "population": {
+            "total": 206659,
+            "segments": {
+                "hispanic": {
+                    "total": 85381,
+                    "percentage": 41.3
+                },
+                "white": {
+                    "total": 92695,
+                    "percentage": 44.9
+                },
+                "african-american": {
+                    "total": 13046,
+                    "percentage": 6.3
+                },
+                "native-american": {
+                    "total": 6716,
+                    "percentage": 3.2
+                },
+                "asian": {
+                    "total": 4291,
+                    "percentage": 2.1
+                },
+                "hawaiian": {
+                    "total": 330,
+                    "percentage": 0.2
+                },
+                "other": {
+                    "total": 4200,
+                    "percentage": 2
+                }
+            }
+        },
+        "votingPopulation": {
+            "total": 157984,
+            "segments": {
+                "hispanic": {
+                    "total": 53875,
+                    "percentage": 34.1
+                },
+                "white": {
+                    "total": 82855,
+                    "percentage": 52.4
+                },
+                "african-american": {
+                    "total": 9883,
+                    "percentage": 6.3
+                },
+                "native-american": {
+                    "total": 4861,
+                    "percentage": 3.1
+                },
+                "asian": {
+                    "total": 3635,
+                    "percentage": 2.3
+                },
+                "hawaiian": {
+                    "total": 237,
+                    "percentage": 0.2
+                },
+                "other": {
+                    "total": 2638,
+                    "percentage": 1.7
+                }
+            }
+        }
+    },
+    "25": {
+        "district": 25,
+        "deviation": {
+            "total": 7727,
+            "percentage": 3.6
+        },
+        "population": {
+            "total": 220795,
+            "segments": {
+                "hispanic": {
+                    "total": 43023,
+                    "percentage": 19.5
+                },
+                "white": {
+                    "total": 160255,
+                    "percentage": 72.6
+                },
+                "african-american": {
+                    "total": 5837,
+                    "percentage": 2.6
+                },
+                "native-american": {
+                    "total": 3655,
+                    "percentage": 1.7
+                },
+                "asian": {
+                    "total": 3397,
+                    "percentage": 1.5
+                },
+                "hawaiian": {
+                    "total": 536,
+                    "percentage": 0.2
+                },
+                "other": {
+                    "total": 4092,
+                    "percentage": 1.9
+                }
+            }
+        },
+        "votingPopulation": {
+            "total": 167944,
+            "segments": {
+                "hispanic": {
+                    "total": 26254,
+                    "percentage": 15.6
+                },
+                "white": {
+                    "total": 129933,
+                    "percentage": 77.4
+                },
+                "african-american": {
+                    "total": 4217,
+                    "percentage": 2.5
+                },
+                "native-american": {
+                    "total": 2399,
+                    "percentage": 1.4
+                },
+                "asian": {
+                    "total": 2711,
+                    "percentage": 1.6
+                },
+                "hawaiian": {
+                    "total": 378,
+                    "percentage": 0.2
+                },
+                "other": {
+                    "total": 2052,
+                    "percentage": 1.2
+                }
+            }
+        }
+    },
+    "26": {
+        "district": 26,
+        "deviation": {
+            "total": 591,
+            "percentage": 0.3
+        },
+        "population": {
+            "total": 213659,
+            "segments": {
+                "hispanic": {
+                    "total": 82251,
+                    "percentage": 38.5
+                },
+                "white": {
+                    "total": 96917,
+                    "percentage": 45.4
+                },
+                "african-american": {
+                    "total": 11034,
+                    "percentage": 5.2
+                },
+                "native-american": {
+                    "total": 10155,
+                    "percentage": 4.8
+                },
+                "asian": {
+                    "total": 7254,
+                    "percentage": 3.4
+                },
+                "hawaiian": {
+                    "total": 1031,
+                    "percentage": 0.5
+                },
+                "other": {
+                    "total": 5017,
+                    "percentage": 2.3
+                }
+            }
+        },
+        "votingPopulation": {
+            "total": 164423,
+            "segments": {
+                "hispanic": {
+                    "total": 52537,
+                    "percentage": 32
+                },
+                "white": {
+                    "total": 85964,
+                    "percentage": 52.3
+                },
+                "african-american": {
+                    "total": 8347,
+                    "percentage": 5.1
+                },
+                "native-american": {
+                    "total": 6994,
+                    "percentage": 4.3
+                },
+                "asian": {
+                    "total": 6575,
+                    "percentage": 4
+                },
+                "hawaiian": {
+                    "total": 705,
+                    "percentage": 0.4
+                },
+                "other": {
+                    "total": 3301,
+                    "percentage": 2
+                }
+            }
+        }
+    },
+    "27": {
+        "district": 27,
+        "deviation": {
+            "total": -8872,
+            "percentage": -4.2
+        },
+        "population": {
+            "total": 204195,
+            "segments": {
+                "hispanic": {
+                    "total": 116568,
+                    "percentage": 57.1
+                },
+                "white": {
+                    "total": 40058,
+                    "percentage": 19.6
+                },
+                "african-american": {
+                    "total": 29982,
+                    "percentage": 14.7
+                },
+                "native-american": {
+                    "total": 7628,
+                    "percentage": 3.7
+                },
+                "asian": {
+                    "total": 5757,
+                    "percentage": 2.8
+                },
+                "hawaiian": {
+                    "total": 436,
+                    "percentage": 0.2
+                },
+                "other": {
+                    "total": 3766,
+                    "percentage": 1.8
+                }
+            }
+        },
+        "votingPopulation": {
+            "total": 140329,
+            "segments": {
+                "hispanic": {
+                    "total": 73051,
+                    "percentage": 52.1
+                },
+                "white": {
+                    "total": 34090,
+                    "percentage": 24.3
+                },
+                "african-american": {
+                    "total": 21210,
+                    "percentage": 15.1
+                },
+                "native-american": {
+                    "total": 5177,
+                    "percentage": 3.7
+                },
+                "asian": {
+                    "total": 4502,
+                    "percentage": 3.2
+                },
+                "hawaiian": {
+                    "total": 312,
+                    "percentage": 0.2
+                },
+                "other": {
+                    "total": 1987,
+                    "percentage": 1.4
+                }
+            }
+        }
+    },
+    "28": {
+        "district": 28,
+        "deviation": {
+            "total": 5645,
+            "percentage": 2.6
+        },
+        "population": {
+            "total": 218713,
+            "segments": {
+                "hispanic": {
+                    "total": 48111,
+                    "percentage": 22
+                },
+                "white": {
+                    "total": 152121,
+                    "percentage": 69.6
+                },
+                "african-american": {
+                    "total": 5919,
+                    "percentage": 2.7
+                },
+                "native-american": {
+                    "total": 2958,
+                    "percentage": 1.4
+                },
+                "asian": {
+                    "total": 5492,
+                    "percentage": 2.5
+                },
+                "hawaiian": {
+                    "total": 244,
+                    "percentage": 0.1
+                },
+                "other": {
+                    "total": 3868,
+                    "percentage": 1.8
+                }
+            }
+        },
+        "votingPopulation": {
+            "total": 169608,
+            "segments": {
+                "hispanic": {
+                    "total": 30085,
+                    "percentage": 17.7
+                },
+                "white": {
+                    "total": 126340,
+                    "percentage": 74.5
+                },
+                "african-american": {
+                    "total": 4391,
+                    "percentage": 2.6
+                },
+                "native-american": {
+                    "total": 2136,
+                    "percentage": 1.3
+                },
+                "asian": {
+                    "total": 4405,
+                    "percentage": 2.6
+                },
+                "hawaiian": {
+                    "total": 174,
+                    "percentage": 0.1
+                },
+                "other": {
+                    "total": 2077,
+                    "percentage": 1.2
+                }
+            }
+        }
+    },
+    "29": {
+        "district": 29,
+        "deviation": {
+            "total": -2000,
+            "percentage": -0.9
+        },
+        "population": {
+            "total": 211067,
+            "segments": {
+                "hispanic": {
+                    "total": 142923,
+                    "percentage": 67.7
+                },
+                "white": {
+                    "total": 45815,
+                    "percentage": 21.7
+                },
+                "african-american": {
+                    "total": 12402,
+                    "percentage": 5.9
+                },
+                "native-american": {
+                    "total": 2119,
+                    "percentage": 1
+                },
+                "asian": {
+                    "total": 4250,
+                    "percentage": 2
+                },
+                "hawaiian": {
+                    "total": 184,
+                    "percentage": 0.1
+                },
+                "other": {
+                    "total": 3374,
+                    "percentage": 1.6
+                }
+            }
+        },
+        "votingPopulation": {
+            "total": 135426,
+            "segments": {
+                "hispanic": {
+                    "total": 83827,
+                    "percentage": 61.9
+                },
+                "white": {
+                    "total": 36737,
+                    "percentage": 27.1
+                },
+                "african-american": {
+                    "total": 8345,
+                    "percentage": 6.2
+                },
+                "native-american": {
+                    "total": 1459,
+                    "percentage": 1.1
+                },
+                "asian": {
+                    "total": 3193,
+                    "percentage": 2.4
+                },
+                "hawaiian": {
+                    "total": 135,
+                    "percentage": 0.1
+                },
+                "other": {
+                    "total": 1730,
+                    "percentage": 1.3
+                }
+            }
+        }
+    },
+    "30": {
+        "district": 30,
+        "deviation": {
+            "total": -5304,
+            "percentage": -2.5
+        },
+        "population": {
+            "total": 207763,
+            "segments": {
+                "hispanic": {
+                    "total": 119436,
+                    "percentage": 57.5
+                },
+                "white": {
+                    "total": 59550,
+                    "percentage": 28.7
+                },
+                "african-american": {
+                    "total": 12944,
+                    "percentage": 6.2
+                },
+                "native-american": {
+                    "total": 4666,
+                    "percentage": 2.2
+                },
+                "asian": {
+                    "total": 6899,
+                    "percentage": 3.3
+                },
+                "hawaiian": {
+                    "total": 312,
+                    "percentage": 0.2
+                },
+                "other": {
+                    "total": 3956,
+                    "percentage": 1.9
+                }
+            }
+        },
+        "votingPopulation": {
+            "total": 141271,
+            "segments": {
+                "hispanic": {
+                    "total": 71675,
+                    "percentage": 50.7
+                },
+                "white": {
+                    "total": 50160,
+                    "percentage": 35.5
+                },
+                "african-american": {
+                    "total": 8834,
+                    "percentage": 6.3
+                },
+                "native-american": {
+                    "total": 3210,
+                    "percentage": 2.3
+                },
+                "asian": {
+                    "total": 4952,
+                    "percentage": 3.5
+                },
+                "hawaiian": {
+                    "total": 237,
+                    "percentage": 0.2
+                },
+                "other": {
+                    "total": 2203,
+                    "percentage": 1.6
+                }
+            }
+        }
+    }
+}
